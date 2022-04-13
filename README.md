@@ -1,6 +1,6 @@
 ![mandarin](https://user-images.githubusercontent.com/8724064/163164811-27be02ef-859f-442f-a92d-d45a9d65cd85.gif) 
 # Mandarin
-
+[![Build Status](https://github.com/twbs/icons/workflows/Tests/badge.svg)](https://github.com/twbs/icons/actions?workflow=Tests)
 ### windows application for manage network connections. you can switch between your network connection simply
 ![image](https://user-images.githubusercontent.com/8724064/163140534-5c551f26-4cdb-4cf9-a4b3-cbbdd078341a.png)
 #### run automaticaly in background
