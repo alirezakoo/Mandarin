@@ -1,0 +1,13 @@
+D:\project\miner\Mandarin\Mandarin\bin\Release\Mandarin.exe.config
+D:\project\miner\Mandarin\Mandarin\bin\Release\Mandarin.exe
+D:\project\miner\Mandarin\Mandarin\bin\Release\Mandarin.pdb
+D:\project\miner\Mandarin\Mandarin\bin\Release\Win32_API.dll
+D:\project\miner\Mandarin\Mandarin\obj\Release\Mandarin.csprojAssemblyReference.cache
+D:\project\miner\Mandarin\Mandarin\obj\Release\Mandarin.Properties.Resources.resources
+D:\project\miner\Mandarin\Mandarin\obj\Release\Mandarin.SettingForm.resources
+D:\project\miner\Mandarin\Mandarin\obj\Release\Mandarin.StatusWindow.resources
+D:\project\miner\Mandarin\Mandarin\obj\Release\Mandarin.csproj.GenerateResource.cache
+D:\project\miner\Mandarin\Mandarin\obj\Release\Mandarin.csproj.CopyComplete
+D:\project\miner\Mandarin\Mandarin\obj\Release\Mandarin.exe
+D:\project\miner\Mandarin\Mandarin\obj\Release\Mandarin.pdb
+D:\project\miner\Mandarin\Mandarin\bin\Release\ManagedWifi.dll
